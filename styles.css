@@ -1,0 +1,16 @@
+h1{
+    font-family: Arial, Helvetica, sans-serifß;
+    text-align: center;
+}
+
+p, em, ul, li{
+
+    text-align: center;
+    list-style: none;
+    
+
+}
+body{
+
+    border: 1rem solid;
+}
